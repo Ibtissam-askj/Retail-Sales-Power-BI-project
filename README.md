@@ -104,7 +104,7 @@ The dashboard highlights several important business insights:
 - **Leather Boots** generated the highest product revenue at approximately **€224K**.
 - **Baseball Cap** achieved one of the highest product profit margins at approximately **60%**.
 - **Leather Boots** generated high revenue but had a relatively low profit margin of approximately **44.3%**, highlighting the difference between sales volume and profitability.
-- Spain generated the highest revenue among the countries shown in the dashboard.
+- Spain generated the highest revenue among the countries shown in the dashboard. 
 - Product performance varies considerably across products, making margin analysis important for business decisions.
 
 ---
