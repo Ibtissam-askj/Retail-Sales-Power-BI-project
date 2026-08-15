@@ -67,7 +67,7 @@ It includes:
 - Revenue by Country
 - Top Performing Product
 
-![Retail Sales Overview](retail-sales-overview.png)
+
 
 ---
 
@@ -90,7 +90,7 @@ Products are classified into:
 - 🟡 **Medium Margin**
 - 🔴 **Low Margin**
 
-![Product Performance Analysis](product-performance-analysis.png)
+
 
 ---
 
