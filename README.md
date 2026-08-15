@@ -1,6 +1,6 @@
 # Retail Sales Power BI Dashboard
 
-## 📊 Project Overview
+##  Project Overview
 
 An interactive Power BI dashboard designed to analyze retail sales performance, profitability, product performance, and geographic sales trends.
 
@@ -8,7 +8,7 @@ The dashboard provides both an executive overview of the business and a detailed
 
 ---
 
-## 🎯 Business Objectives
+##  Business Objectives
 
 The main objectives of this project were to:
 
@@ -23,7 +23,7 @@ The main objectives of this project were to:
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **Power BI**
 - **DAX**
@@ -33,7 +33,7 @@ The main objectives of this project were to:
 
 ---
 
-## 📌 Key Performance Indicators
+##  Key Performance Indicators
 
 The dashboard tracks several key business metrics:
 
@@ -48,7 +48,7 @@ The dashboard tracks several key business metrics:
 
 ---
 
-## 📄 Dashboard Pages
+##  Dashboard Pages
 
 ### 1. Retail Sales Overview
 
@@ -94,7 +94,7 @@ Products are classified into:
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 
 The dashboard highlights several important business insights:
 
@@ -109,9 +109,12 @@ The dashboard highlights several important business insights:
 
 ---
 
-## 🧮 DAX Measures
+##  DAX Measures
 
 Several DAX measures were created to calculate the main business KPIs, including:
 
 ```DAX
 Total Revenue = SUM(Sales[Revenue])
+Total Profit = SUM(Sales[Profit])
+Units Sold = SUM(Sales[Quantity])
+Profit Margin = DIVIDE([Total Profit], [Total Revenue])
